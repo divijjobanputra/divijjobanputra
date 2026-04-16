@@ -3,7 +3,7 @@
 **Java Backend Developer** · Spring Boot · PostgreSQL · REST APIs
 
 I build scalable backend systems with clean architecture.
-Currently open to Backend / Full-Stack Java roles (remote or Bangalore).
+Currently open to Backend / Full-Stack Java roles (PAN INDIA).
 
 ---
 
@@ -35,11 +35,11 @@ Expense tracking API with category management and analytics.
 
 ## GitHub Stats
 
-![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijjobanputra&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divijjobanputra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:divijjobanputra@email.com)
